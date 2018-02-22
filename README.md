@@ -67,7 +67,6 @@
 * [react-firebase-authentication] (https://github.com/zerostatic/react-firebase-authentication) - Starter kit for authentication and real-time database using React and Firebase
 
 ## Newsletter
-* [Best of Firebase](http://bestoffirebase.com/) - The free, monthly curated newsletter of the best Firebase news, articles, projects, and more.
 * [Real Time Weekly](http://realtimeweekly.co/) - Weekly updates on the latest news in WebRTC and Real Time messaging for web and mobile applications.
 
 ## Videos
